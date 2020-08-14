@@ -1,0 +1,9 @@
+main: detox.main.BlockShuffle
+name: BlockShuffle
+version: 0.0.4
+api-version: 1.14
+prefix: BlockShuffle
+commands:
+  block:
+    description: Starts and Stops the BlockShuffle game.
+    aliases: bs
